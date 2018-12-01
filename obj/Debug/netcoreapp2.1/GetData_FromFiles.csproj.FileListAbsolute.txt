@@ -1,0 +1,11 @@
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/bin/Debug/netcoreapp2.1/GetData_FromFiles.deps.json
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/bin/Debug/netcoreapp2.1/GetData_FromFiles.runtimeconfig.json
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/bin/Debug/netcoreapp2.1/GetData_FromFiles.runtimeconfig.dev.json
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/bin/Debug/netcoreapp2.1/GetData_FromFiles.dll
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/bin/Debug/netcoreapp2.1/GetData_FromFiles.pdb
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/obj/Debug/netcoreapp2.1/GetData_FromFiles.csprojAssemblyReference.cache
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/obj/Debug/netcoreapp2.1/GetData_FromFiles.csproj.CoreCompileInputs.cache
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/obj/Debug/netcoreapp2.1/GetData_FromFiles.AssemblyInfoInputs.cache
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/obj/Debug/netcoreapp2.1/GetData_FromFiles.AssemblyInfo.cs
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/obj/Debug/netcoreapp2.1/GetData_FromFiles.dll
+/Users/ayanoriohashi/Data/Repos/GetData_FromFiles/obj/Debug/netcoreapp2.1/GetData_FromFiles.pdb
